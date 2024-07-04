@@ -3,7 +3,7 @@ import Wrapper from 'components/wrapper/Wrapper.component';
 
 const ECU = () => (
   <Wrapper>
-    <Button captionId="test" isDanger />
+    <Button captionId="test" />
   </Wrapper>
 );
 
